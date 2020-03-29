@@ -1,5 +1,5 @@
 # spacemacs-gnome-icons
-Useful PNGs/SVG icons to blend spacemacs into Gnome. Tested and using in Gnome 3.36.0
+Useful PNGs/SVG icons to blend spacemacs into Gnome. Tested and used in Gnome 3.36.0
 
 # Installation in Gnome
 
