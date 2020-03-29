@@ -33,6 +33,9 @@ Useful PNGs/SVG icons to blend spacemacs into Gnome. Tested and used in Gnome 3.
   ```
   > gtk-update-icon-cache
   ```
+  
+* Reload Gnome : **ALT+F2** type **r** hit **ENTER**
+  
 * You're done.
   
 The PNG files contained is this repo were made using cairosvg CLI tool : https://cairosvg.org/documentation/
