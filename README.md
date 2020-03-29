@@ -17,12 +17,20 @@ Useful PNGs/SVG icons to blend spacemacs into Gnome. Tested and used in Gnome 3.
   > cd spacemacs-gnome-icons
   > sudo cp -r * /usr/share/icons/hicolor
   ```
+  
+* Using your favorite text-editor, modify **/usr/share/applications/emacs.desktop**. For example :
+
+  ```
+  > sudo gedit /usr/share/applications/emacs.desktop
+  ```
+  And modify __Icon=emacs__ (should be line 7 as of today) into __Icon=spacemacs__.
 
 * Run **gtk-update-icon-cache**. Simply type :
 
   ```
   > gtk-update-icon-cache
   ```
+* You're done.
   
 The PNG files contained is this repo were made using cairosvg CLI tool : https://cairosvg.org/documentation/
  
