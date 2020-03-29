@@ -25,6 +25,7 @@ Useful PNGs/SVG icons to blend spacemacs into Gnome. Tested and used in Gnome 3.
   ```
   And modify __Icon=emacs__ (should be line 7 as of today) into __Icon=spacemacs__.
 
+
 * Run **gtk-update-icon-cache**. Simply type :
 
   ```
