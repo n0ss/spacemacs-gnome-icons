@@ -24,7 +24,8 @@ Useful PNGs/SVG icons to blend spacemacs into Gnome. Tested and used in Gnome 3.
   > sudo gedit /usr/share/applications/emacs.desktop
   ```
   And modify __Icon=emacs__ (should be line 7 as of today) into __Icon=spacemacs__.
-   *optional* : You can also change line 1, __Name=Emacs__ into __Name=Spacemacs__ fitting you personal preferences.
+  
+  (*optional* : You can also change line 1, __Name=Emacs__ into __Name=Spacemacs__ fitting you personal preferences.)
 
 
 * Run **gtk-update-icon-cache**. Simply type :
