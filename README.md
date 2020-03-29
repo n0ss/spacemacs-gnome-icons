@@ -46,5 +46,5 @@ The PNG files contained is this repo were made using cairosvg CLI tool : https:/
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">
-This repo was made from <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.nass3r.com" property="cc:attributionName" rel="cc:attributionURL">Nasser Alshammari</a>'s work. It is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+This repo was made from <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.nass3r.com" property="cc:attributionName" rel="cc:attributionURL">Nasser Alshammari</a>'s work and original logo. It is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
 Original work : https://github.com/nashamri/spacemacs-logo
